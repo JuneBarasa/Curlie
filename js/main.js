@@ -19,12 +19,12 @@ var reply = [
     ["Nothing much", "About to go to sleep", "Can you guest?", "I don't know actually"],
     ["I am 1 day old"],
     ["I am just a bot", "I am a bot. What are you?"],
-    ["Kani Veri", "My God"],
-    ["I am nameless", "I don't have a name"],
-    ["I love you too", "Me too"],
+    ["June Barasa"],
+    ["I am Curlie"],
+    ["Get a man", "I feel the same way"],
     ["Have you ever felt bad?", "Glad to hear it"],
     ["Why?", "Why? You shouldn't!", "Try watching TV"],
-    ["I will", "What about?"],
+    ["I'm busy", "Well, do I have to?"],
     ["Tell me a story", "Tell me a joke", "Tell me about yourself", "You are welcome"],
     ["Bye", "Goodbye", "See you later"]
 ];
